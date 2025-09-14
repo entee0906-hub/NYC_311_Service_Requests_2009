@@ -24,5 +24,31 @@ Cleaned with Python (Pandas), exploratory analysis in a Kaggle notebook, and int
 
 ---
 
-## Files & Folder Structure
+> If you removed the full dataset (too large), consider including a small sample CSV (`nyc_311_sample.csv`) so others can run the notebook locally.
+
+---
+
+## Notebook — What’s inside
+
+Open `Notebooks/NYC_311_EDA.ipynb` (or view a copy on Kaggle) to see:
+
+1. Data ingestion and inspection  
+2. Date parsing & validation (Created Date, Closed Date)  
+3. `Response Time (Days)` calculation and filtering invalid values  
+4. Aggregations: complaints by borough, top complaint types, monthly trends  
+5. Visualizations (Matplotlib/Seaborn) used for quick EDA and annotation  
+6. CSV export used as input for Tableau
+
+**Kaggle notebook :** '(https://www.kaggle.com/code/jamesmcentee/sql-python-tableau/edit)`
+
+---
+
+## How to run the notebook locally (recommended)
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/<your-username>/NYC_311_Service_Requests_2009.git
+cd NYC_311_Service_Requests_2009/Notebooks
+
 
