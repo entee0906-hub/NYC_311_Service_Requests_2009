@@ -23,9 +23,14 @@ Cleaned with Python (Pandas), exploratory analysis in a Kaggle notebook, and int
 - **Response times:** Noticeable differences in average closure times between boroughs.
 
 ---
-[![NYC 311 Dashboard]
-([https://public.tableau.com/views/YOUR_WORKBOOK_NAME/YOUR_VIEW_NAME](https://public.tableau.com/authoring/NYC311ServiceRequestsDashboard2009/NYC311ServiceRequests2009#1))
-*Interactive dashboard — view on Tableau Public.*
+## Interactive Dashboard
+
+Click the image to view the interactive dashboard on Tableau Public:
+
+[![NYC 311 Dashboard](Tableau/Screenshots/Dashboard_Full.png)]([https://public.tableau.com/views/YOUR_WORKBOOK_NAME/YOUR_VIEW_NAME](https://public.tableau.com/authoring/NYC311ServiceRequestsDashboard2009/NYC311ServiceRequests2009#1))
+
+**Live dashboard:** https://public.tableau.com/views/YOUR_WORKBOOK_NAME/YOUR_VIEW_NAME
+
 
 
 ---
