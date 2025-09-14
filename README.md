@@ -5,14 +5,7 @@ Cleaned with Python (Pandas), exploratory analysis in a Kaggle notebook, and int
 
 ---
 
-## Demo / Featured Screenshot
 
-![Full dashboard screenshot](Tableau/Screenshots/Dashboard_Full.png)
-*Figure: Full Tableau dashboard (1200×800).*
-
-> View the interactive dashboard on Tableau Public: **[INSERT YOUR TABLEAU PUBLIC LINK HERE]**
-
----
 
 ## Project Summary
 
