@@ -27,9 +27,9 @@ Cleaned with Python (Pandas), exploratory analysis in a Kaggle notebook, and int
 
 Click the image to view the interactive dashboard on Tableau Public:
 
-[![NYC 311 Dashboard](Tableau/Screenshots/Dashboard_Full.png)](https://public.tableau.com/authoring/NYC311ServiceRequestsDashboard2009/NYC311ServiceRequests2009#1)
+[![NYC 311 Dashboard](Tableau/Screenshots/Dashboard_Full.png)]
 
-**Live dashboard:** https://public.tableau.com/views/YOUR_WORKBOOK_NAME/YOUR_VIEW_NAME
+**Live dashboard:** (https://public.tableau.com/authoring/NYC311ServiceRequestsDashboard2009/NYC311ServiceRequests2009#1)
 
 
 
